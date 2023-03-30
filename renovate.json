@@ -1,0 +1,8 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "lockFileMaintenance": {
+    "enabled": true
+  },
+  "platform": "github",
+  "repositories": ["zephyros-dev/jb-private-renovate"]
+}
