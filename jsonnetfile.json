@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "git": {
+          "remote": "https://github.com/zephyros-dev/jb-private-lib.git",
+          "subdir": ""
+        }
+      },
+      "version": "v1.0.0"
+    }
+  ],
+  "legacyImports": true
+}
